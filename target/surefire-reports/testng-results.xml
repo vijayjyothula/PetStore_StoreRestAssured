@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-21T20:34:06 IST" name="PetSuite" finished-at="2023-07-21T20:34:15 IST" duration-ms="8607">
+    <groups>
+    </groups>
+    <test started-at="2023-07-21T20:34:06 IST" name="PetTest" finished-at="2023-07-21T20:34:15 IST" duration-ms="8607">
+      <class name="api.testcases.storeTest">
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:api.testcases.storeTest@25df00a0]" started-at="2023-07-21T20:34:07 IST" name="preSetup" finished-at="2023-07-21T20:34:07 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method signature="post_Str()[pri:0, instance:api.testcases.storeTest@25df00a0]" started-at="2023-07-21T20:34:07 IST" name="post_Str" finished-at="2023-07-21T20:34:12 IST" duration-ms="5376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_Str -->
+        <test-method signature="get_Str()[pri:1, instance:api.testcases.storeTest@25df00a0]" started-at="2023-07-21T20:34:12 IST" name="get_Str" finished-at="2023-07-21T20:34:13 IST" duration-ms="1226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Str -->
+        <test-method signature="delete_Str()[pri:2, instance:api.testcases.storeTest@25df00a0]" started-at="2023-07-21T20:34:13 IST" name="delete_Str" finished-at="2023-07-21T20:34:15 IST" duration-ms="1147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_Str -->
+      </class> <!-- api.testcases.storeTest -->
+    </test> <!-- PetTest -->
+  </suite> <!-- PetSuite -->
+</testng-results>
